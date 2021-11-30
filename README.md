@@ -1,5 +1,6 @@
 # Game Caro on Console
 
-Đồ ấn nhập môn lập trình
+Đồ án môn: Nhập môn lập trình
+Khóa 2020
 
 Giảng viên: Trương Toàn Thịnh
